@@ -15,6 +15,6 @@ Players interact solely with the provided image file.
 ---
 
 ## Files
-- `src/not_onion.jpg` — Image containing hidden data required to solve the challenge.
+- `not_onion.jpg` — Image containing hidden data required to solve the challenge.
 
 ---
